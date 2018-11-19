@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_server_practice",
+  "version": "1.0.0",
+  "description": "Node.js Guide ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codjam/NODEJS_server_practice.git"
+  },
+  "author": "Codejam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codjam/NODEJS_server_practice/issues"
+  },
+  "homepage": "https://github.com/Codjam/NODEJS_server_practice#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
